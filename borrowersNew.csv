@@ -1,0 +1,6 @@
+Email,Number of Borrowers,Gender,Designation
+"john.doe@example.com",20,"Male","student"
+"jane.smith@example.com",40,"Male","Employed"
+"alex.alexa@gamil.com",60","Female","Employed"
+"siri@apple.com",80,"Female","Unemployed"
+"Google@ggl.com",100,"Male","Employed"
